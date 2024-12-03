@@ -25,5 +25,5 @@ content goes.</p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg"
     alt="elephent" />
 </div>
-<div style="width:535px; background-color: black; padding:5px; margin:auto;">
-   <img width="175" src="image1.jpg" alt="lioness"/>
+<div style="width:535; background-color: black; padding:5; margin:auto;">
+   <img width="175" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg" alt="elephent"/>
