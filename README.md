@@ -12,7 +12,7 @@
 <body>
 <div style="width:100%; height:150px; background-image:url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg);">
     <div style="background-color:#5A5A5A; color:#FFFFFF;">
-    <div style="width:100px; height:100px; padding:20px; background-color:#555555; margin:20px;">
+    <div style="width:100; height:100; padding:20; background-color:#555555; margin:20;">
 </div>
 
     <div style="background-color:#BBCCFF; color:#333333;">
@@ -22,7 +22,7 @@ content goes.</p>
 </div>
 </body>
 
-<div style="width:400px; height:500px; padding:80px; background-color:#555555;">
+<div style="width:400; height:500; padding:80; background-color:#555555;border: 4 solid green; margin:20;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg"
     alt="elephent" />
 </div>
