@@ -11,7 +11,7 @@
 </html>
 <body>
 <div style=" background-image:url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg);width:400; height:550;">
-    <div style="margin:10, 20, 5, 25;">
+    <div style="margin:50, 50, 50, 50;">
 </div>
 
     <div style="background-color:#BBCCFF; color:#333333;">
