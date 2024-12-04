@@ -79,3 +79,38 @@
                     </dl>
                 </p>
             </body>
+<body>
+    <style>
+        #example1 {
+            background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/35/Elephants_in_Tanzania_Africa.jpg), url(https://upload.wikimedia.org/wikipedia/commons/3/35/Elephants_in_Tanzania_Africa.jpg);
+            background-repeat: repeat;
+            margin: 30px;
+            border: 3px solid;
+            width: 400;
+            height: 550;
+            padding: 20px;
+        }
+    </style>
+    <body>
+        <p>
+            <div id="example1">
+                <h1>Dinner Menu</h1>
+                <dl style="list-style-type: none;">
+                    <dt><p style="background-color:#FFFFFF;">
+                        Cheese burger bacon tomato lettce onions and fries $6.87
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                        Grilled samon with butter ,garlic and shrimp $13.74
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                        Chicken sandwitch with cheese curly fries macn cheese $10.63
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                         Four tacos lettce cheese tomato meat of your choosing beans with cheese and rice $10.37
+                    </p>
+                </dl>
+            </p>
+        </body>
