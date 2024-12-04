@@ -10,20 +10,72 @@
     </head>
 </html>
 <body>
-<div style=" background-image:url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg);width:400; height:550;">
-    <div style="margin:50, 50, 50, 50;">
-</div>
-
-    <div style="background-color:#BBCCFF; color:#333333;">
-   <p>Down here is the body of the page, where the main
-content goes.</p>
-   <p>See how these divs are grouping multiple elements?
-</div>
-</body>
-
-<div style="width:400; height:500; padding:80; background-color:#555555;border: 4 solid green; margin:20;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg"
-    alt="elephent" />
-</div>
-<div style="width:535; background-color: black; padding:5; margin:auto;">
-   <img width="175" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg" alt="elephent"/>
+    <style>
+        #example1 {
+            background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg), url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg);
+            background-repeat: repeat;
+            margin: 30px;
+            border: 3px solid;
+            width: 400;
+            height: 550;
+            padding: 20px;
+        }
+    </style>
+    <body>
+        <p>
+            <div id="example1">
+                <h1>Breakfest Menu</h1>
+                <dl style="list-style-type: none;">
+                    <dt><p style="background-color:#FFFFFF;">
+                        Omlet wih garlic and butter and a side of bacon and toast $6.87
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                        Two easy side up eggs two pancakes a side of bacon $9.74
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                        Scrable eggs bacon three pancakes sausage toast and hashbrowns $12.63
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                        Croissant with egg bacon cheese hasbrowns inside $6.37
+                    </p>
+                    </dl>
+                </p>
+            </body>
+<body>
+    <style>
+        #example1 {
+            background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg), url(https://upload.wikimedia.org/wikipedia/commons/b/bc/Elephant.jpg);
+            background-repeat: repeat;
+            margin: 30px;
+            border: 3px solid;
+            width: 400;
+            height: 550;
+            padding: 20px;
+        }
+    </style>
+    <body>
+        <p>
+            <div id="example1">
+                <h1>Breakfest Menu</h1>
+                <dl style="list-style-type: none;">
+                    <dt><p style="background-color:#FFFFFF;">
+                        Omlet wih garlic and butter and a side of bacon and toast $6.87
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                        Two easy side up eggs two pancakes a side of bacon $9.74
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                        Scrable eggs bacon three pancakes sausage toast and hashbrowns $12.63
+                    </p>
+                    </dt><br>
+                    <dt><p style="background-color:#FFFFFF;">
+                        Croissant with egg bacon cheese hasbrowns inside $6.37
+                    </p>
+                    </dl>
+                </p>
+            </body>
